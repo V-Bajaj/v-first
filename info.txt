@@ -1,1 +1,2 @@
-We are creating a webpage for our comapny.
+This is the webpage for my company.
+
